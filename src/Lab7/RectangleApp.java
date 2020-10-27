@@ -1,4 +1,4 @@
-package Lad7;
+package Lab7;
 
 public class RectangleApp {
     public static void main(String[] args){

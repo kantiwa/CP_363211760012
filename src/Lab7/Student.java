@@ -1,4 +1,4 @@
-package Lad7;
+package Lab7;
 
 public class Student {
     //attributes

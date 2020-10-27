@@ -1,4 +1,4 @@
-package Lad7;
+package Lab7;
 
 import java.util.ArrayList;
 import java.util.Scanner;
